@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mouad</h1>
 
 <p align="center">
-  <a href="https://imgflip.com/i/9b6564"><img src="https://i.imgflip.com/9b6564.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+  <a href="https://github.com/MouadHallaffou"><img src="Mouad Hallaffou.png" title="I'm Mouad"/></a>
 </p>
 
 ---
