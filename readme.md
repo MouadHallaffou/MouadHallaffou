@@ -7,9 +7,9 @@
 ---
 
 <h2 align="center">🚀 About Me</h2>
-<p align="left">
+<h3 align="left">
   I'm a 24-year-old web developer from Morocco with a passion for creating clean, responsive, and user-friendly web applications. I have experience in both front-end and back-end development, and I'm always looking to learn new technologies and improve my skills.
-</p>
+</h3>
 
 ---
 
