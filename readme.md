@@ -37,14 +37,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </div>
 
-
 ---
 
 <h2 align="center">🎯 Projects</h2>
 <p align="center">
   Here are some of the projects I've worked on:
 </p>
-
 <ul>
   <li><strong><a href="https://github.com/MouadHallaffou/Resume_Builder_StruoCV">StruoCV Builder</a></strong> - A user-friendly online CV builder with real-time preview and PDF export using jsPDF.</li>
   <li><strong><a href="https://github.com/MouadHallaffou/YoucodeScrum-Board">YouCode Scrum Board</a></strong> - A task management tool with drag-and-drop features built in Vanilla JavaScript.</li>
@@ -113,3 +111,22 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MouadHallaffou&show_icons=true&theme=radical" alt="Mouad's GitHub stats" />
 </p>
+
+---
+
+<style>
+  h2 {
+      transition: all 0.3s ease-in-out;
+  }
+  h2:hover {
+      transform: scale(1.1);
+      color: #FF5733; 
+  }
+  p {
+      animation: fade-in 1s ease-in;
+  }
+  @keyframes fade-in {
+      from { opacity: 0; }
+      to { opacity: 1; }
+  }
+</style>
