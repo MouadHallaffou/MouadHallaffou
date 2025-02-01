@@ -74,7 +74,7 @@
 ---
 
 <h2 align="center">🔥 Contributions & Community</h2>
-<p align="center">
+<p align="left">
   I believe in giving back to the community. Some ways I contribute include:
 </p>
 <ul>
