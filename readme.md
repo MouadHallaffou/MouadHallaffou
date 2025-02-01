@@ -1,22 +1,21 @@
 <h1 align="center">Hi 👋, I'm Mouad</h1>
 
 <p align="center">
-  <a href="https://github.com/MouadHallaffou">
-    <img src="Mouad Hallaffou.png" alt="I'm Mouad" title="I'm Mouad" width="200"/>
-  </a>
+  <a href="https://github.com/MouadHallaffou"><img src="Mouad Hallaffou.png" title="I'm Mouad"/></a>
 </p>
 
 ---
 
 <h2 align="center">🚀 About Me</h2>
-<p align="center">
-  I'm a 24-year-old web developer from Morocco with a passion for creating clean, responsive, and user-friendly web applications. I specialize in both front-end and back-end development and am constantly exploring new technologies to enhance my skills.
-</p>
+<h3 align="left">
+  I'm a web developer from Morocco passionate about crafting clean, responsive, and user-friendly web applications. With experience in both front-end and back-end development, I'm constantly exploring new 
+  technologies to enhance my skills and deliver impactful solutions.
+</h3>
 
 ---
 
 <h2 align="center">💻 Skills & Tools</h2>
-<p align="center">
+<p align="left">
   <strong>Languages:</strong> HTML5, CSS3, JavaScript, PHP, C, SQL <br/>
   <strong>Frameworks & Libraries:</strong> Bootstrap, TailwindCSS, React, Laravel, jQuery <br/>
   <strong>Tools:</strong> Git, GitHub, Docker, Figma, Visual Studio Code, Jira, Trello
@@ -41,7 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" height="40" alt="Trello" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" />
 </div>
-
 ---
 
 <h2 align="center">🎯 Projects</h2>
@@ -57,24 +55,26 @@
 ---
 
 <h2 align="center">📅 Workshops & Achievements</h2>
-<ul>
-  <li>Participated in the <strong>YouCodeScrum Board Workshop</strong> - Created a Scrum board with pure JavaScript and improved task management features.</li>
-  <li>Completed <strong>HTML & CSS Accessibility Training</strong> - Focused on improving UI/UX for better inclusivity.</li>
-  <li>Certified in <strong>JavaScript</strong> by <a href="https://www.codecademy.com/">Codecademy</a>.</li>
-</ul>
+<p align="center">
+  <ul>
+    <li>Participated in the <strong>YouCodeScrum Board Workshop</strong> - Created a Scrum board with pure JavaScript and improved task management features.</li>
+    <li>Completed <strong>HTML & CSS Accessibility Training</strong> - Focused on improving UI/UX for better inclusivity.</li>
+    <li>Certified in <strong>JavaScript</strong> by <a href="https://www.codecademy.com/">Codecademy</a>.</li>
+  </ul>
+</p>
 
 ---
 
 <h2 align="center">✨ Personal Motto</h2>
 <p align="center">
-  <em>"Code is like poetry; it's a blend of logic and creativity."</em>
+  "Code is like poetry; it's a blend of logic and creativity."  
 </p>
 
 ---
 
 <h2 align="center">🔥 Contributions & Community</h2>
 <p align="center">
-  I believe in giving back to the community. Here's how I contribute:
+  I believe in giving back to the community. Some ways I contribute include:
 </p>
 <ul>
   <li>Helping beginners with programming on Discord (<strong>Username:</strong> CodingChampions).</li>
@@ -85,10 +85,10 @@
 ---
 
 <h2 align="center">🌐 Connect with Me</h2>
-<p align="center">
-  Feel free to reach out if you'd like to collaborate, discuss web development, or just chat!
+<p align="left">
+  I'm active on several platforms. Feel free to reach out if you'd like to collaborate, discuss web development, or just chat!
 </p>
-<div align="center">
+<div align="left">
   <a href="https://github.com/MouadHallaffou" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" alt="GitHub" />
   </a>
@@ -113,5 +113,13 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MouadHallaffou&show_icons=true&theme=radical" alt="Mouad's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MouadHallaffou&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=Mouad%27s%20GitHub%20Stats" alt="Mouad's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouadHallaffou&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=MouadHallaffou&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MouadHallaffou&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/MouadHallaffou?label=Follow%20Me&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/MouadHallaffou?label=Stars&style=social" alt="GitHub Stars" />
+</p>
+
