@@ -44,7 +44,7 @@
 ---
 
 <h2 align="center">🎯 Projects</h2>
-<p align="center">
+<p align="left">
   Here are some of the projects I've worked on:
 </p>
 
