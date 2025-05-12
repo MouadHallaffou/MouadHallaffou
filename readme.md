@@ -1,126 +1,98 @@
-<h1 align="center">Hi 👋, I'm Mouad</h1>
+# 👨‍💻 Mouad Hallaffou | Full Stack Web Developer
 
-<p align="center">
-  <a href="https://github.com/MouadHallaffou"><img src="Mouad Hallaffou.png" title="I'm Mouad"/></a>
-</p>
+## 🌟 Professional Summary
 
----
+I am a passionate Full Stack Web Developer with a strong foundation in creating robust, scalable, and user-centric web applications. With a blend of technical expertise and creative problem-solving skills, I specialize in delivering innovative digital solutions that drive business value.
 
-<h2 align="center">🚀 About Me</h2>
-<h3 align="left">
-  I'm a web developer from Morocco passionate about crafting clean, responsive, and user-friendly web applications. With experience in both front-end and back-end development, I'm constantly exploring new 
-  technologies to enhance my skills and deliver impactful solutions.
-</h3>
+## 🚀 Professional Highlights
 
----
+- 🎓 Currently pursuing Full Stack Web Development at YOUCODE MAROC-UM6P
+- 💼 Proven track record of developing complex web applications
+- 🏆 Certified in JavaScript and MySQL
+- 🌐 Experienced in Agile/Scrum methodologies
 
-<h2 align="center">💻 Skills & Tools</h2>
-<p align="left">
-  <strong>Languages:</strong> HTML5, CSS3, JavaScript, PHP, C, SQL <br/>
-  <strong>Frameworks & Libraries:</strong> Bootstrap, TailwindCSS, React, Laravel, jQuery <br/>
-  <strong>Tools:</strong> Git, GitHub, Docker, Figma, Visual Studio Code, Jira, Trello
-</p>
+## 🛠 Technical Ecosystem
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" height="40" alt="Trello" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" />
-</div>
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+### 🚀 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-<h2 align="center">🎯 Projects</h2>
-<p align="left">
-  Here are some of the projects I've worked on:
-</p>
+### 🛢 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<ul>
-  <li><strong><a href="https://github.com/MouadHallaffou/Resume_Builder_StruoCV">StruoCV Builder</a></strong> - A user-friendly online CV builder with real-time preview and PDF export using jsPDF.</li>
-  <li><strong><a href="https://github.com/MouadHallaffou/YoucodeScrum-Board">YouCode Scrum Board</a></strong> - A task management tool with drag-and-drop features built in Vanilla JavaScript.</li>
-</ul>
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
+## 🏆 Professional Projects
 
-<h2 align="center">📅 Workshops & Achievements</h2>
-<p align="center">
-  <ul>
-    <li>Participated in the <strong>YouCodeScrum Board Workshop</strong> - Created a Scrum board with pure JavaScript and improved task management features.</li>
-    <li>Completed <strong>HTML & CSS Accessibility Training</strong> - Focused on improving UI/UX for better inclusivity.</li>
-    <li>Certified in <strong>JavaScript</strong> by <a href="https://www.codecademy.com/">Codecademy</a>.</li>
-  </ul>
-</p>
+### 🌐 Full Stack Applications
 
----
+| Project | Description | Technologies | Repository |
+|---------|-------------|--------------|------------|
+| EasyPrint | Comprehensive bookstore management platform with online selling capabilities | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | [🔗 GitHub](https://github.com/MouadHallaffou/EasyPrint) |
+| eLearning Platform | Advanced mentorship and collaborative learning ecosystem | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | [🔗 GitHub](https://github.com/MouadHallaffou/plateforme_mentorat) |
+| HR Management System | Comprehensive employee and organizational management solution | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) | [🔗 GitHub](https://github.com/MouadHallaffou/Human-Resource-Management-System) |
 
-<h2 align="center">✨ Personal Motto</h2>
-<p align="center">
-  "Code is like poetry; it's a blend of logic and creativity."  
-</p>
+### 🛠 Utility & Learning Projects
 
----
+| Project | Description | Technologies | Repository |
+|---------|-------------|--------------|------------|
+| StruoCV | Interactive CV builder with dynamic PDF generation | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | [🔗 GitHub Pages](https://mouadhallaffou.github.io/Resume_Builder_StruoCV/) |
+| Weather App | Real-time weather information application | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | [🔗 GitHub](https://github.com/MouadHallaffou/Weather_App) |
+| Calculator App | Modern, responsive calculator web application | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | [🔗 GitHub Pages](https://mouadhallaffou.github.io/Calculator/) |
 
-<h2 align="center">🔥 Contributions & Community</h2>
-<p align="left">
-  I believe in giving back to the community. Some ways I contribute include:
-</p>
-<ul>
-  <li>Helping beginners with programming on Discord (<strong>Username:</strong> CodingChampions).</li>
-  <li>Creating tutorial videos on my <a href="https://www.youtube.com/@CodingChampions">YouTube channel</a>.</li>
-  <li>Participating in hackathons and developer meetups.</li>
-</ul>
+## 📊 GitHub Analytics
 
----
+![Mouad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MouadHallaffou&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MouadHallaffou&layout=compact&theme=radical&hide_border=true)
 
-<h2 align="center">🌐 Connect with Me</h2>
-<p align="left">
-  I'm active on several platforms. Feel free to reach out if you'd like to collaborate, discuss web development, or just chat!
-</p>
-<div align="left">
-  <a href="https://github.com/MouadHallaffou" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/hallaffou-mouad-763409200/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mouadhallaffou@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" />
-  </a>
-  <a href="https://instagram.com/invites/contact/?i=1leifo22sgv82&utm_content=plkjh8q" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/@CodingChampions" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" alt="YouTube" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Discord" />
-  </a>
-</div>
+## 🎓 Education & Certifications
+
+- **Full Stack Web Development** | YOUCODE MAROC-UM6P | Current
+- **Bachelor in Economics and Management** | FSJES Meknès | 2019-2022
+- **Certifications**:
+  - JavaScript Certification - GreatLearning Academy
+  - MySQL Certification - GreatLearning Academy
+
+## 🌍 Languages
+
+- **Professional French**
+- **Intermediate English**
+- **Native Arabic**
+
+## 🤝 Professional Network
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hallaffou-mouad-763409200/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MouadHallaffou)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouadhallaffou@gmail.com)
+
+## 💬 Professional Motto
+
+> "Code is like poetry; it's a blend of logic and creativity."
+
+## 🏅 Achievements & Contributions
+
+- Active contributor to open-source projects
+- Technical content creator on YouTube
+- Mentor and community support on Discord
+- Participant in multiple developer workshops and hackathons
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MouadHallaffou&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=Mouad%27s%20GitHub%20Stats" alt="Mouad's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouadHallaffou&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-  <img src="https://streak-stats.demolab.com?user=MouadHallaffou&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MouadHallaffou&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/MouadHallaffou?label=Follow%20Me&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/MouadHallaffou?label=Stars&style=social" alt="GitHub Stars" />
-</p>
-
+**Last Updated**: May 2025
