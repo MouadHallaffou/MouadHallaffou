@@ -8,17 +8,16 @@
 
 <h2 align="center">🚀 About Me</h2>
 <p align="left">
-  I'm a web developer from Morocco passionate about crafting clean, responsive, and user-friendly web applications. With experience in both front-end and back-end development, I'm constantly exploring new technologies to enhance my skills and deliver impactful solutions.
+  I'm a 24-year-old web developer from Morocco with a passion for creating clean, responsive, and user-friendly web applications. I have experience in both front-end and back-end development, and I'm always looking to learn new technologies and improve my skills.
 </p>
 
 ---
 
 <h2 align="center">💻 Skills & Tools</h2>
 <p align="left">
-  <strong>Languages:</strong> JavaScript, PHP, HTML5, CSS3, C, SQL <br/>
-  <strong>Frameworks & Libraries:</strong> React, Laravel, TailwindCSS, Bootstrap, jQuery <br/>
-  <strong>Databases:</strong> MySQL, PostgreSQL <br/>
-  <strong>Tools:</strong> Git, GitHub, Docker, VSCode, Figma
+  <strong>Languages:</strong> HTML5, CSS3, JavaScript, PHP, C, SQL <br/>
+  <strong>Frameworks & Libraries:</strong> Bootstrap, TailwindCSS, React, Laravel, jQuery <br/>
+  <strong>Tools:</strong> Git, GitHub, Docker, Figma, Visual Studio Code, Jira, Trello
 </p>
 
 <div align="left">
@@ -34,92 +33,56 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </div>
 
+
 ---
 
-<h2 align="center">🏆 Projects</h2>
+<h2 align="center">🎯 Projects</h2>
+<p align="center">
+  Here are some of the projects I've worked on:
+</p>
 
-<h3 align="center">🌐 Full Stack Applications</h3>
-
-<table align="center">
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Technologies</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td>EasyPrint</td>
-    <td>Comprehensive bookstore management platform with online selling capabilities</td>
-    <td>React, Laravel, MySQL</td>
-    <td><a href="https://github.com/MouadHallaffou/EasyPrint">GitHub</a></td>
-  </tr>
-  <tr>
-    <td>eLearning Platform</td>
-    <td>Advanced mentorship and collaborative learning ecosystem</td>
-    <td>React, Laravel</td>
-    <td><a href="https://github.com/MouadHallaffou/plateforme_mentorat">GitHub</a></td>
-  </tr>
-  <tr>
-    <td>HR Management System</td>
-    <td>Comprehensive employee and organizational management solution</td>
-    <td>Laravel, PostgreSQL</td>
-    <td><a href="https://github.com/MouadHallaffou/Human-Resource-Management-System">GitHub</a></td>
-  </tr>
-</table>
-
-<h3 align="center">🛠 Utility & Learning Projects</h3>
-
-<table align="center">
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Technologies</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td>StruoCV</td>
-    <td>Interactive CV builder with dynamic PDF generation</td>
-    <td>JavaScript, HTML5</td>
-    <td><a href="https://mouadhallaffou.github.io/Resume_Builder_StruoCV/">Live Demo</a></td>
-  </tr>
-  <tr>
-    <td>Weather App</td>
-    <td>Real-time weather information application</td>
-    <td>JavaScript, TailwindCSS</td>
-    <td><a href="https://github.com/MouadHallaffou/Weather_App">GitHub</a></td>
-  </tr>
-  <tr>
-    <td>Calculator App</td>
-    <td>Modern, responsive calculator web application</td>
-    <td>JavaScript, TailwindCSS</td>
-    <td><a href="https://mouadhallaffou.github.io/Calculator/">Live Demo</a></td>
-  </tr>
-</table>
+<ul>
+  <li><strong><a href="https://github.com/MouadHallaffou/EasyPrint">EasyPrint</a></strong> – Bookstore platform for managing and selling books (Javascript, Laravel, MySQL, Tailwind).</li>
+  <li><strong><a href="https://github.com/MouadHallaffou/plateforme_mentorat">eLearning Platform</a></strong> – Mentorship & collaborative learning platform (React, Laravel, REST API).</li>
+  <li><strong><a href="https://github.com/MouadHallaffou/Human-Resource-Management-System">HR Management System</a></strong> – System to manage employees and departments (Laravel, Javascript, PostgreSQL).</li>
+  <li><strong><a href="https://github.com/MouadHallaffou/The_Weekly">The Weekly</a></strong> – Platform for announcements and comments (Laravel, MySQL, Tailwind).</li>
+  <li><strong><a href="https://mouadhallaffou.github.io/Resume_Builder_StruoCV/">StruoCV Builder</a></strong> – Interactive CV builder with real-time preview and PDF download (Javascript, Laravel, MySQL).</li>
+  <li><strong><a href="https://mouadhallaffou.github.io/Calculator/">Calculator App</a></strong> – A modern calculator with clean UI (Javascript, Tailwind).</li>
+  <li><strong><a href="https://github.com/MouadHallaffou/Youdemy_plateform">Youdemy Platform</a></strong> – E-learning platform with courses management (PHP, Javascript, MySQL, Tailwind).</li>
+  <li><strong><a href="https://github.com/MouadHallaffou/Dev.to_Blogging_Plateform">Dev.to Blog</a></strong> – A blogging platform inspired by Dev.to for tech articles (PHP, Bootstrap, MySQL).</li>
+  <li><strong><a href="https://mouadhallaffou.github.io/YoucodeScrum-Board/">ScrumBoard</a></strong> – Agile project management tool with drag-and-drop (Javascript, Bootstrap, HTML).</li>
+  <li><strong><a href="https://github.com/MouadHallaffou/FUT-Champions-Web-App-Ultimate-Team">FUT Champions</a></strong> – Web app for football stats & team management (Javascript, CSS, HTML).</li>
+  <li><strong><a href="https://github.com/MouadHallaffou/Weather_App">Weather App</a></strong> – Real-time weather dashboard using API (Javascript, Tailwind, Weather API).</li>
+</ul>
 
 ---
 
 <h2 align="center">📅 Workshops & Achievements</h2>
-<ul>
-  <li>Participated in the <strong>YouCodeScrum Board Workshop</strong> - Created a Scrum board with pure JavaScript and improved task management features.</li>
-  <li>Completed <strong>HTML & CSS Accessibility Training</strong> - Focused on improving UI/UX for better inclusivity.</li>
-  <li>Certified in <strong>JavaScript</strong> by <a href="https://www.codecademy.com/">Codecademy</a>.</li>
-</ul>
+<p align="center">
+  <ul>
+    <li>Participated in the <strong>YouCodeScrum Board Workshop</strong> - Created a Scrum board with pure JavaScript and improved task management features.</li>
+    <li>Completed <strong>HTML & CSS Accessibility Training</strong> - Focused on improving UI/UX for better inclusivity.</li>
+    <li>Certified in <strong>JavaScript</strong> by <a href="https://www.codecademy.com/">Codecademy</a>.</li>
+  </ul>
+</p>
 
 ---
 
 <h2 align="center">✨ Personal Motto</h2>
 <p align="center">
-  "Code is like poetry; it's a blend of logic and creativity."  
+  **If the plan doesn't work, change the plan, not the goal.**
 </p>
 
 ---
 
 <h2 align="center">🔥 Contributions & Community</h2>
+<p align="center">
+  I believe in giving back to the community. Some ways I contribute include:
+</p>
 <ul>
   <li>Helping beginners with programming on Discord (<strong>Username:</strong> CodingChampions).</li>
   <li>Creating tutorial videos on my <a href="https://www.youtube.com/@CodingChampions">YouTube channel</a>.</li>
@@ -129,6 +92,9 @@
 ---
 
 <h2 align="center">🌐 Connect with Me</h2>
+<p align="left">
+  I'm active on several platforms. Feel free to reach out if you'd like to collaborate, discuss web development, or just chat!
+</p>
 <div align="left">
   <a href="https://github.com/MouadHallaffou" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" alt="GitHub" />
@@ -155,10 +121,4 @@
 <h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MouadHallaffou&show_icons=true&theme=radical" alt="Mouad's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouadHallaffou&layout=compact&theme=radical" alt="Top Langs" />
-  <img src="https://streak-stats.demolab.com?user=MouadHallaffou&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MouadHallaffou&color=blue" alt="Profile views" />
 </p>
