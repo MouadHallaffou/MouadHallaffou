@@ -1,14 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mouad</h1>
+<p style="text-align: center; font-size: 32px; font-weight: bold;">Hi 👋, I'm Mouad</p>
 
-<p align="center">
-  <a href="https://github.com/MouadHallaffou"><img src="Mouad Hallaffou.png" title="I'm Mouad"/></a>
+<p style="text-align: center;">
+  <a href="https://github.com/MouadHallaffou">
+    <img src="me.jpg" title="I'm Mouad" alt="Mouad's Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;" />
+  </a>
 </p>
 
----
+<p style="text-align: center;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Web+Developer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
-<h2 align="center">🚀 About Me</h2>
-<p align="left">
-  I'm a 24-year-old web developer from Morocco with a passion for creating clean, responsive, and user-friendly web applications. I have experience in both front-end and back-end development, and I'm always looking to learn new technologies and improve my skills.
+<p style="font-size: 24px; font-weight: bold; color: #70A5FD; margin: 20px 0;">🚀 About Me</p>
+<p style="background-color: #0D1117; padding: 20px; border-radius: 6px; border: 1px solid #30363D; color: #C9D1D9;">
+  I'm a web developer from Morocco passionate about crafting clean, responsive, and user-friendly web applications. With experience in both front-end and back-end development, I'm constantly exploring new technologies to enhance my skills and deliver impactful solutions.
 </p>
 
 ---
@@ -46,8 +50,17 @@
 </p>
 
 <ul>
-  <li><strong><a href="https://github.com/MouadHallaffou/Resume_Builder_StruoCV">StruoCV Builder</a></strong> - A user-friendly online CV builder with real-time preview and PDF export using jsPDF.</li>
-  <li><strong><a href="https://github.com/MouadHallaffou/YoucodeScrum-Board">YouCode Scrum Board</a></strong> - A task management tool with drag-and-drop features built in Vanilla JavaScript.</li>
+  <li><strong><a href="https://github.com/MouadHallaffou/EasyPrint">EasyPrint</a></strong> – Bookstore platform for managing and selling books (Javascript, Laravel, MySQL, Tailwind).</li>
+  <li><strong><a href="https://github.com/MouadHallaffou/plateforme_mentorat">eLearning Platform</a></strong> – Mentorship & collaborative learning platform (React, Laravel, REST API).</li>
+  <li><strong><a href="https://github.com/MouadHallaffou/Human-Resource-Management-System">HR Management System</a></strong> – System to manage employees and departments (Laravel, Javascript, PostgreSQL).</li>
+  <li><strong><a href="https://github.com/MouadHallaffou/The_Weekly">The Weekly</a></strong> – Platform for announcements and comments (Laravel, MySQL, Tailwind).</li>
+  <li><strong><a href="https://mouadhallaffou.github.io/Resume_Builder_StruoCV/">StruoCV Builder</a></strong> – Interactive CV builder with real-time preview and PDF download (Javascript, Laravel, MySQL).</li>
+  <li><strong><a href="https://mouadhallaffou.github.io/Calculator/">Calculator App</a></strong> – A modern calculator with clean UI (Javascript, Tailwind).</li>
+  <li><strong><a href="https://github.com/MouadHallaffou/Youdemy_plateform">Youdemy Platform</a></strong> – E-learning platform with courses management (PHP, Javascript, MySQL, Tailwind).</li>
+  <li><strong><a href="https://github.com/MouadHallaffou/Dev.to_Blogging_Plateform">Dev.to Blog</a></strong> – A blogging platform inspired by Dev.to for tech articles (PHP, Bootstrap, MySQL).</li>
+  <li><strong><a href="https://mouadhallaffou.github.io/YoucodeScrum-Board/">ScrumBoard</a></strong> – Agile project management tool with drag-and-drop (Javascript, Bootstrap, HTML).</li>
+  <li><strong><a href="https://github.com/MouadHallaffou/FUT-Champions-Web-App-Ultimate-Team">FUT Champions</a></strong> – Web app for football stats & team management (Javascript, CSS, HTML).</li>
+  <li><strong><a href="https://github.com/MouadHallaffou/Weather_App">Weather App</a></strong> – Real-time weather dashboard using API (Javascript, Tailwind, Weather API).</li>
 </ul>
 
 ---
@@ -65,7 +78,7 @@
 
 <h2 align="center">✨ Personal Motto</h2>
 <p align="center">
-  "Code is like poetry; it's a blend of logic and creativity."  
+  **If the plan doesn't work, change the plan, not the goal.**
 </p>
 
 ---
@@ -109,7 +122,9 @@
 
 ---
 
+
 <h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MouadHallaffou&show_icons=true&theme=radical" alt="Mouad's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouadHallaffou&layout=compact&theme=radical" alt="Top Langs" />
 </p>
