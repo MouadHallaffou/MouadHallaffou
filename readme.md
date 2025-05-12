@@ -123,5 +123,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MouadHallaffou&show_icons=true&theme=radical" alt="Mouad's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouadHallaffou&layout=compact&theme=radical" alt="Top Langs" />
-  <img src="https://streak-stats.demolab.com?user=MouadHallaffou&theme=radical" alt="GitHub Streak" />
 </p>
