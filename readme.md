@@ -1,21 +1,21 @@
-# Hi 👋, I'm Mouad
+<h1 align="center">Hi 👋, I'm Mouad</h1>
 
 <div align="center">
-  <img src="https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg" alt="Mouad Hallaffou" width="200" height="200" style="border-radius: 100px"/>
+  <a href="https://github.com/MouadHallaffou"><img src="Mouad Hallaffou.png" title="I'm Mouad"/></a>
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Web+Developer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+<div style="font-size: 24px; font-weight: bold; color: #70A5FD; margin: 20px 0;">🚀 About Me</div>
 <div align="left" style="background-color: #0D1117; padding: 20px; border-radius: 6px; border: 1px solid #30363D;">
   I'm a web developer from Morocco passionate about crafting clean, responsive, and user-friendly web applications. With experience in both front-end and back-end development, I'm constantly exploring new technologies to enhance my skills and deliver impactful solutions.
 </div>
 
 <div style="background: #0D1117; padding: 20px; border-radius: 6px; border: 1px solid #30363D; margin: 20px 0;">
 
-## 💻 Programming Languages
+<div style="font-size: 24px; font-weight: bold; color: #70A5FD; margin: 20px 0;">💻 Programming Languages</div>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,18 +23,18 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🚀 Frameworks & Libraries
+<div style="font-size: 24px; font-weight: bold; color: #70A5FD; margin: 20px 0;">🚀 Frameworks & Libraries</div>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-## 🛢 Databases
+<div style="font-size: 24px; font-weight: bold; color: #70A5FD; margin: 20px 0;">🛢 Databases</div>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🔧 Tools & Platforms
+<div style="font-size: 24px; font-weight: bold; color: #70A5FD; margin: 20px 0;">🔧 Tools & Platforms</div>
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -45,9 +45,9 @@
 
 <div style="background: #0D1117; padding: 20px; border-radius: 6px; border: 1px solid #30363D; margin: 20px 0;">
 
-## 🏆 Professional Projects
+<div style="font-size: 24px; font-weight: bold; color: #70A5FD; margin: 20px 0;">🏆 Professional Projects</div>
 
-### 🌐 Full Stack Applications
+<div style="font-size: 20px; font-weight: bold; color: #58A6FF; margin: 15px 0;">🌐 Full Stack Applications</div>
 
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
@@ -55,7 +55,7 @@
 | eLearning Platform | Advanced mentorship and collaborative learning ecosystem | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | [🔗 GitHub](https://github.com/MouadHallaffou/plateforme_mentorat) |
 | HR Management System | Comprehensive employee and organizational management solution | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) | [🔗 GitHub](https://github.com/MouadHallaffou/Human-Resource-Management-System) |
 
-### 🛠 Utility & Learning Projects
+<div style="font-size: 20px; font-weight: bold; color: #58A6FF; margin: 15px 0;">🛠 Utility & Learning Projects</div>
 
 | Project | Description | Technologies | Repository |
 |---------|-------------|--------------|------------|
@@ -67,15 +67,17 @@
 
 <div style="background: #0D1117; padding: 20px; border-radius: 6px; border: 1px solid #30363D; margin: 20px 0;">
 
-## 📅 Workshops & Achievements
+<div style="font-size: 24px; font-weight: bold; color: #70A5FD; margin: 20px 0;">📅 Workshops & Achievements</div>
 - Participated in the **YouCodeScrum Board Workshop** - Created a Scrum board with pure JavaScript and improved task management features.
 - Completed **HTML & CSS Accessibility Training** - Focused on improving UI/UX for better inclusivity.
 - Certified in **JavaScript** by [Codecademy](https://www.codecademy.com/).
 
-## ✨ Personal Motto
-> "Code is like poetry; it's a blend of logic and creativity."
+<div style="font-size: 24px; font-weight: bold; color: #70A5FD; margin: 20px 0;">✨ Personal Motto</div>
+<blockquote style="border-left: 4px solid #58A6FF; padding-left: 15px; margin: 15px 0; color: #8B949E;">
+  "Code is like poetry; it's a blend of logic and creativity."
+</blockquote>
 
-## 🔥 Contributions & Community
+<div style="font-size: 24px; font-weight: bold; color: #70A5FD; margin: 20px 0;">🔥 Contributions & Community</div>
 I believe in giving back to the community. Some ways I contribute include:
 - Helping beginners with programming on Discord (**Username:** CodingChampions).
 - Creating tutorial videos on my [YouTube channel](https://www.youtube.com/@CodingChampions).
@@ -85,7 +87,7 @@ I believe in giving back to the community. Some ways I contribute include:
 
 <div style="background: #0D1117; padding: 20px; border-radius: 6px; border: 1px solid #30363D; margin: 20px 0;">
 
-## 🌐 Connect with Me
+<div style="font-size: 24px; font-weight: bold; color: #70A5FD; margin: 20px 0;">🌐 Connect with Me</div>
 <div align="left">
   <a href="https://github.com/MouadHallaffou" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" alt="GitHub" />
@@ -111,7 +113,7 @@ I believe in giving back to the community. Some ways I contribute include:
 
 <div style="background: #0D1117; padding: 20px; border-radius: 6px; border: 1px solid #30363D; margin: 20px 0;">
 
-## 📈 GitHub Stats
+<div style="font-size: 24px; font-weight: bold; color: #70A5FD; margin: 20px 0;">📈 GitHub Stats</div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MouadHallaffou&show_icons=true&theme=github_dark&hide_border=true&count_private=true&custom_title=Mouad%27s%20GitHub%20Stats&bg_color=0D1117" alt="Mouad's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouadHallaffou&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Langs" />
