@@ -7,7 +7,7 @@
   </a>
 
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Web+Developer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" style="margin-bottom: 20px;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+React+Expert;PHP+%7C+JavaScript+Specialist;MERN+Stack+Developer;Web+%26+Mobile+Applications;TypeScript+Developer;Python+Script+Developer;Linux+OS+Enthusiast;Computer+Science+Student;Vibe+Coding+Lover;AI+%26+Machine+Learning;DevOps+Enthusiast;Data+Analytics+Explorer" alt="Typing SVG" style="margin-bottom: 20px;" />
   </p>
 
   <p style="font-size: 24px; font-weight: bold; color: #70A5FD; margin: 20px 0;">🚀 About Me</p>
@@ -138,9 +138,29 @@
 
 ---
 
+<h2 align="center">📈 GitHub Analytics & Performance</h2>
 
-<h2 align="center">📈 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MouadHallaffou&show_icons=true&theme=radical" alt="Mouad's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouadHallaffou&layout=compact&theme=radical" alt="Top Langs" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MouadHallaffou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&icon_color=70A5FD" alt="Mouad's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MouadHallaffou&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouadHallaffou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&langs_count=8" alt="Most Used Languages" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MouadHallaffou&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&layout=compact" alt="Coding Time Stats" width="48%" /> -->
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MouadHallaffou&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MouadHallaffou&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=C9D1D9" alt="Contribution Graph" width="100%" />
+</div>
+
+<p align="center" style="margin-top: 20px; color: #70A5FD; font-weight: bold;">
+  🏆 GitHub Achievements & Trophies
 </p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MouadHallaffou&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
