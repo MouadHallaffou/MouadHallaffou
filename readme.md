@@ -3,7 +3,7 @@
   <p style="font-size: 32px; font-weight: bold; margin-bottom: 20px;">Hi 👋, I'm Mouad</p>
 
   <a href="https://github.com/MouadHallaffou">
-    <img src="me.jpg" title="I'm Mouad" alt="Mouad's Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; margin-bottom: 20px;" />
+    <img src="me.png" title="I'm Mouad" alt="Mouad's Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; margin-bottom: 20px;" />
   </a>
 
   <p>
