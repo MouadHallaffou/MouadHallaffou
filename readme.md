@@ -1,7 +1,7 @@
 <div style="text-align: center; font-family: Arial, sans-serif;">
 
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines= Hi 👋;I'm Mouad Hallaffou;Full+Stack+Developer;Laravel+%7C+React+Expert;PHP+%7C+JavaScript+Specialist;MERN+Stack+Developer;Web+%26+Mobile+Applications;TypeScript+Developer;Python+Script+Developer;Linux+OS+Enthusiast;Computer+Science+Student;Vibe+Coding+Lover;AI+%26+Machine+Learning;DevOps+Enthusiast;Data+Analytics+Explorer" alt="Typing SVG" style="margin-bottom: 20px;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hi+👋;I'm+Mouad+Hallaffou;Full+Stack+Developer;Laravel+|+React+Expert;PHP+|+JavaScript+Specialist;MERN+Stack+Developer;Web+%26+Mobile+Applications;TypeScript+Developer;Python+Script+Developer;Linux+OS+Enthusiast;Computer+Science+Student;Vibe+Coding+Lover;AI+%26+Machine+Learning;DevOps+Enthusiast;Data+Analytics+Explorer" alt="Typing SVG" style="margin-bottom: 20px;" />
   </p>
 
   <a href="https://github.com/MouadHallaffou">
