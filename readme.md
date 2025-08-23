@@ -1,14 +1,13 @@
 <div style="text-align: center; font-family: Arial, sans-serif;">
 
-  <p style="font-size: 32px; font-weight: bold; margin-bottom: 20px;">Hi 👋, I'm Mouad</p>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines= Hi 👋;I'm Mouad Hallaffou;Full+Stack+Developer;Laravel+%7C+React+Expert;PHP+%7C+JavaScript+Specialist;MERN+Stack+Developer;Web+%26+Mobile+Applications;TypeScript+Developer;Python+Script+Developer;Linux+OS+Enthusiast;Computer+Science+Student;Vibe+Coding+Lover;AI+%26+Machine+Learning;DevOps+Enthusiast;Data+Analytics+Explorer" alt="Typing SVG" style="margin-bottom: 20px;" />
+  </p>
 
   <a href="https://github.com/MouadHallaffou">
     <img src="me.png" title="I'm Mouad" alt="Mouad's Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; margin-bottom: 20px;" />
   </a>
 
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+React+Expert;PHP+%7C+JavaScript+Specialist;MERN+Stack+Developer;Web+%26+Mobile+Applications;TypeScript+Developer;Python+Script+Developer;Linux+OS+Enthusiast;Computer+Science+Student;Vibe+Coding+Lover;AI+%26+Machine+Learning;DevOps+Enthusiast;Data+Analytics+Explorer" alt="Typing SVG" style="margin-bottom: 20px;" />
-  </p>
 
   <p style="font-size: 24px; font-weight: bold; color: #70A5FD; margin: 20px 0;">🚀 About Me</p>
   <p style="background-color: #0D1117; padding: 20px; border-radius: 6px; border: 1px solid #30363D; color: #C9D1D9; display: inline-block; text-align: left; max-width: 600px;">
