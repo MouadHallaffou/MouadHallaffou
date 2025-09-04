@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="me.png" alt="Mouad Hallaffou" style="border-radius: 1%;" />
+  <img src="cover.png" alt="Mouad Hallaffou" style="border-radius: 1%;" />
 </div>
 
 ---
