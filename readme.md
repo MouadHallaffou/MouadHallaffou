@@ -193,7 +193,7 @@
   <a href="https://github.com/MouadHallaffou" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/hallaffou-mouad-763409200/" target="_blank">
+  <a href="https://www.linkedin.com/in/hallaffou-mouad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mouadhallaffou@gmail.com">
@@ -205,7 +205,7 @@
   <a href="https://instagram.com/invites/contact/?i=1leifo22sgv82&utm_content=plkjh8q" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://discord.com" target="_blank">
+  <a href="https://discord.gg/9PyRh9FX" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
