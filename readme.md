@@ -221,6 +221,8 @@
   </a>
 </div>
 
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MouadHallaffou&color=70A5FD&style=for-the-badge" alt="Profile Views" />
 </div>
