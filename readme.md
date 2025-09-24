@@ -1,7 +1,7 @@
 # <div align="center">👋 Hi, I'm Mouad Hallaffou</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+|+React+Expert;PHP+|+JavaScript+Specialist;MERN+Stack+Developer;Java+|+Spring+Boot+Developer;Angular+|+JEE+Specialist;REST+API+|+GraphQL+Expert;Web+%26+Mobile+Applications;TypeScript+Developer;Python+Script+Developer;Linux+OS+Enthusiast;Computer+Science+Student;Vibe+Coding+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=🚀+Full+Stack+Developer;💻+Laravel+%7C+React+Expert;🧠+PHP+%7C+JavaScript+Specialist;🌐+MERN+Stack+Developer;☕+Java+%7C+Spring+Boot+Developer;🧩+Angular+%7C+JEE+Specialist;🔗+REST+API+%7C+GraphQL+Expert;📱+Web+%26+Mobile+Applications;🌀+TypeScript+Developer;🐍+Python+Script+Developer;🎧+Vibe+Coding+Lover" alt="Typing SVG" />
 </div>
 
 <div align="center">
