@@ -1,7 +1,11 @@
-# <div align="center">👋 Hi, I'm Mouad Hallaffou</div>
+# <div align="center">👋 Hello, I'm Mouad Hallaffou</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=🚀+Full+Stack+Developer;💻+Laravel+%7C+React+Expert;🧠+PHP+%7C+JavaScript+Specialist;🌐+MERN+Stack+Developer;☕+Java+%7C+Spring+Boot+Developer;🧩+Angular+%7C+JEE+Specialist;🔗+REST+API+%7C+GraphQL+Expert;📱+Web+%26+Mobile+Applications;🌀+TypeScript+Developer;🐍+Python+Script+Developer;🎧+Vibe+Coding+Lover" alt="Typing SVG" />
+  🇬🇧 <a href="README.md">English</a> · 🇫🇷 <a href="README.fr.md">Français</a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+|+Spring+Boot+Expert;PHP+|+Laravel+|+Symfony+Specialist;Angular+|+React+|+Vue.js+Developer;Microservices+|+REST+APIs+Architect;DevOps+|+Docker+|+CI%2FCD;TypeScript+|+JavaScript;Computer+Science+Student" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,69 +17,103 @@
 ## <div align="center">🚀 <span style="color: #70A5FD;">About Me</span></div>
 
 <div align="center">
-  <p style="max-width: 600px; margin: 0 auto; font-size: 16px; line-height: 1.6;">
-    Passionate web and mobile developer from Morocco, specialized in building modern, responsive, and user-friendly web and mobile applications. With expertise in both front-end and back-end development, I constantly explore new technologies to refine my skills and deliver innovative cross-platform solutions.
+  <p style="max-width: 640px; margin: 0 auto; font-size: 16px; line-height: 1.6;">
+    Full-Stack Developer with a strong dual background in <strong>Java / Spring Boot</strong> and <strong>PHP / Laravel / Symfony</strong>, combined with solid frontend expertise in <strong>Angular, React and Vue.js</strong>.
   </p>
+  <p style="max-width: 640px; margin: 12px auto 0; font-size: 16px; line-height: 1.6;">
+    I design and develop modern, secure and scalable web applications — from monolithic systems to <strong>microservices architectures</strong> — with a strong focus on clean code, REST APIs, security, databases, testing and DevOps practices. Comfortable working in <strong>Agile / Scrum</strong> teams and interested in distributed architectures, cloud technologies and high-value Full-Stack applications.
+  </p>
+  <p style="margin-top: 12px;">📍 Casablanca, Morocco &nbsp;·&nbsp; 🌐 <a href="https://mouadhallaffou.vercel.app/">mouadhallaffou.vercel.app</a></p>
 </div>
 
 ---
 
-## <div align="center">💼 <span style="color: #70A5FD;">Technical Skills</span></div>
+## <div align="center">💼 <span style="color: #70A5FD;">Professional Experience</span></div>
+
+<div align="center">
+
+### **Full-Stack Developer — Smile** *(Mar 2026 — Present)*
+*Casablanca, Morocco*
+
+`Java` · `Spring Boot` · `PHP` · `Symfony` · `Laravel` · `Drupal` · `Ibexa DXP` · `Angular` · `React.js` · `Vue.js` · `MySQL` · `MariaDB`
+
+Participation in the development and maintenance of Full-Stack web solutions across different technology environments: backend with Java/Spring Boot and PHP/Symfony/Laravel, frontend with Angular, React and Vue.js, REST API design and consumption, SQL databases, CMS platforms (Drupal, Ibexa DXP), responsive and accessible UIs.
+
+### **Full-Stack Developer Intern — Greativa** *(May 2025 — Aug 2025)*
+*Marrakech, Morocco*
+
+`Symfony` · `PHP` · `JavaScript` · `Ajax` · `MySQL` · `Twig` · `SASS`
+
+Web application development with Symfony/PHP, frontend integration, business feature development, Ajax-based interactions, MySQL database management, in an Agile team using Jira.
+
+</div>
+
+---
+
+## <div align="center">🛠️ <span style="color: #70A5FD;">Technical Skills</span></div>
 
 <div align="center">
 
 ### **Programming Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### **Frameworks & Libraries**
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![JEE](https://img.shields.io/badge/JEE-007396?style=for-the-badge&logo=java&logoColor=white)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtoken&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-1B1B1F?style=for-the-badge&logo=keycloak&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### **CMS**
+
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Ibexa DXP](https://img.shields.io/badge/Ibexa_DXP-1B1B1F?style=for-the-badge)
 
 ### **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Sqlite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-### **Tools & Technologies**
+### **DevOps, Cloud & Tools**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=restapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-6CC644?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=rest&logoColor=white)
 
+### **Methodologies & Quality**
+
+Clean Code · SOLID · Agile / Scrum · REST Architecture · Microservices · Unit & Functional Testing · Code Review
 
 </div>
 
@@ -87,37 +125,47 @@
   <table>
     <tr>
       <td align="center" width="50%">
-           <h3>🛒 EasyPrint</h3>
-           <p>Bookstore platform for managing and selling books</p>
-           <p><strong>Tech:</strong> Laravel, JavaScript, MySQL, Tailwind</p>
-        <a href="https://github.com/MouadHallaffou/EasyPrint">
+           <h3>💬 SayHello — Chat Application</h3>
+           <p>Real-time chat platform with secure authentication and an integrated AI chatbot</p>
+           <p><strong>Tech:</strong> Express.js, MongoDB, React, TypeScript, Socket.io, Docker</p>
+        <a href="https://github.com/MouadHallaffou/web_chat_application">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
       <td align="center" width="50%">
-           <h3>🎓 eLearning Platform</h3>
-           <p>Mentoring and collaborative learning platform</p>
-           <p><strong>Tech:</strong> React, Laravel, REST API</p>
-        <a href="https://github.com/MouadHallaffou/plateforme_mentorat">
+           <h3>🛒 EasyPrint</h3>
+           <p>Full e-commerce bookstore platform with social logins and Stripe payments</p>
+           <p><strong>Tech:</strong> React, Laravel, REST API, MySQL, TailwindCSS, Stripe</p>
+        <a href="https://github.com/MouadHallaffou/EasyPrint">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-           <h3>👥 HR System</h3>
-           <p>Employee and department management system</p>
-           <p><strong>Tech:</strong> Laravel, JavaScript, PostgreSQL</p>
-        <a href="https://github.com/MouadHallaffou/Human-Resource-Management-System">
+           <h3>🏭 SupplyChainX</h3>
+           <p>Supply chain management covering suppliers, production, orders and deliveries</p>
+           <p><strong>Tech:</strong> Spring Boot, Spring Security, Hibernate, PostgreSQL, Docker, React</p>
+        <a href="https://github.com/MouadHallaffou/SupplyChainXApplication">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
       <td align="center" width="50%">
-           <h3>📄 StruoCV Builder</h3>
-           <p>Interactive CV builder with real-time preview</p>
-           <p><strong>Tech:</strong> JavaScript, Laravel, MySQL</p>
-        <a href="https://mouadhallaffou.github.io/Resume_Builder_StruoCV/">
-          <img src="https://img.shields.io/badge/Demo-70A5FD?style=for-the-badge&logo=web&logoColor=white" alt="Demo"/>
+           <h3>🏥 Hôpital Numérique</h3>
+           <p>Digital hospital management system — patients, doctors, consultations and services</p>
+           <p><strong>Tech:</strong> Java EE, JSP/Servlet, JPA, Hibernate, MySQL, Docker</p>
+        <a href="https://github.com/MouadHallaffou/Hopital_Numerique">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+           <h3>🏫 SchoolSphere</h3>
+           <p>School management platform based on a microservices architecture (multi-tenant, Kafka)</p>
+           <p><strong>Tech:</strong> Spring Boot, Microservices, MongoDB, PostgreSQL, Kafka, Angular</p>
+        <a href="https://github.com/MouadHallaffou/SchoolSphere">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
     </tr>
@@ -126,8 +174,10 @@
 
 ### Other Notable Projects
 
+- **[eLearning Platform](https://github.com/MouadHallaffou/plateforme_mentorat)** - Mentoring and collaborative learning platform (Laravel, React, REST API)
+- **[HR Management System](https://github.com/MouadHallaffou/Human-Resource-Management-System)** - Employee and department management system (Laravel, PostgreSQL, Tailwind)
+- **[StruoCV Builder](https://mouadhallaffou.github.io/Resume_Builder_StruoCV/)** - Interactive CV builder with real-time preview (JavaScript, HTML, CSS, jsPDF)
 - **[The Weekly](https://github.com/MouadHallaffou/The_Weekly)** - Announcement and comment platform (Laravel, MySQL, Tailwind)
-- **[Calculator App](https://mouadhallaffou.github.io/Calculator/)** - Modern calculator with clean interface (JavaScript, Tailwind)
 - **[Youdemy Platform](https://github.com/MouadHallaffou/Youdemy_plateform)** - E-learning platform with course management (PHP, JavaScript, MySQL)
 - **[Dev.to Blog](https://github.com/MouadHallaffou/Dev.to_Blogging_Plateform)** - Tech blog platform inspired by Dev.to (PHP, Bootstrap, MySQL)
 - **[ScrumBoard](https://mouadhallaffou.github.io/YoucodeScrum-Board/)** - Agile project management tool with drag-and-drop (JavaScript, Bootstrap)
@@ -138,11 +188,31 @@
 
 <div align="center">
   <ul style="list-style: none; padding: 0;">
-    <li>🎯 Participated in <strong>YouCodeScrum Board Workshop</strong> - Built a Scrum board in pure JavaScript</li>
-    <li>♿ Training in <strong>HTML & CSS Accessibility</strong> - Improved UI/UX for better inclusivity</li>
-    <li>🏅 Certified in <strong>JavaScript</strong> by <a href="https://www.codecademy.com/">Codecademy</a></li>
-    <li>🚀 Active participation in hackathons and developer meetups</li>
+    <li>☁️ <strong>Oracle Cloud Infrastructure 2025 Certified Foundations Associate</strong> — Oracle</li>
+    <li>☕ <strong>Oracle Certified Associate — Java SE 8</strong> — Oracle</li>
+    <li>🧩 <strong>Symfony 7 Essentials</strong> — LinkedIn Learning</li>
+    <li>💾 <strong>Getting Started with Storage</strong> — AWS Education</li>
+    <li>🐳 <strong>Docker for Developers</strong> — LinkedIn Learning</li>
+    <li>🐘 <strong>PostgreSQL Essentials</strong> — LinkedIn Learning</li>
+    <li>📜 <strong>JavaScript / ES6</strong> — GreatLearning Academy</li>
+    <li>🗄️ <strong>MySQL</strong> — GreatLearning Academy</li>
   </ul>
+</div>
+
+---
+
+## <div align="center">🎓 <span style="color: #70A5FD;">Education</span></div>
+
+<div align="center">
+  <ul style="list-style: none; padding: 0;">
+    <li>💻 <strong>Full-Stack Developer Program</strong> — UM6P · YouCode, Youssoufia (2024 — 2026)</li>
+    <li>📊 <strong>Bachelor's Degree in Economics and Management</strong> — Faculty of Legal, Economic and Social Sciences, Meknès (2019 — 2022)</li>
+    <li>🔬 <strong>Baccalaureate in Life and Earth Sciences</strong> — Lycée El Mansour Dahbi (2018 — 2019)</li>
+  </ul>
+</div>
+
+<div align="center">
+  <p style="margin-top: 8px;"><strong>Languages:</strong> 🇲🇦 Arabic (Native) · 🇫🇷 French (B2) · 🇬🇧 English (A2)</p>
 </div>
 
 ---
@@ -161,7 +231,7 @@
 
 <div align="center">
   <p>I strongly believe in sharing knowledge and helping others in the developer community:</p>
-  
+
   - 💬 Helping programming beginners on Discord (**Username:** CodingChampions)
   - 🎥 Creating video tutorials on my <a href="https://www.youtube.com/@CodingChampions">YouTube channel</a>
   - 🏆 Active participation in hackathons and tech events
@@ -196,22 +266,20 @@
 
 <div align="center">
   <p>Feel free to contact me to collaborate, discuss web development, or just connect!</p>
-  
-  <a href="https://mouadhallaffou.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/hallaffou-mouad/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+
   <a href="https://github.com/MouadHallaffou" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/hallaffou-mouad-763409200/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mouadhallaffou@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://mouadhallaffou.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-70A5FD?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MouadHallaffou&color=70A5FD&style=for-the-badge" alt="Profile Views" />
